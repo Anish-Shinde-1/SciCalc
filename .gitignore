@@ -1,0 +1,30 @@
+# CMake build files
+/build/
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
+
+# Compiled object files
+*.o
+*.obj
+*.exe
+*.dll
+*.pdb
+*.dSYM
+
+# IDE files (Visual Studio Code)
+.vscode/
+
+# Output directory for built binaries
+/out/
+
+# Temporary files
+*.tmp
+*.log
+*~
+
+# CMake specific files
+*.cmake
+
+# Ignore any other specific file types or directories you may not want to track
